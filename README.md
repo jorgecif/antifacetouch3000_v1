@@ -23,7 +23,7 @@ Para editar este repositorio en MakeCode.
 Esta imagen muestra el código de los bloques de la última confirmación en master.
 Esta imagen puede tardar unos minutos en actualizarse.
 
-![Una vista renderizada de los bloques](https://github.com/jorgecif/antifacetouch3000_v1/blocks.PNG)
+![Una vista renderizada de los bloques](https://github.com/jorgecif/antifacetouch3000_v1/blob/master/blocks.PNG)
 
 #### Metadatos (utilizados para búsqueda, renderizado)
 
